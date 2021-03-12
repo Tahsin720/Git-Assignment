@@ -3,7 +3,12 @@
 void kidding(){
 	
 }
-
+void changed(){
+	printf("Changed Here!");
+}
+void another Function(){
+	printf("Changed Here too!");
+}
 void greetings(){
 	printf("Hi!");
 }
